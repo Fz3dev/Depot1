@@ -1008,4 +1008,4 @@ CREATE TABLE trailer(
 	CONSTRAINT FK_TRAILER_PLATEFORME FOREIGN KEY (idplateforme) REFERENCES plateforme(id)
 )engine=InnoDB;
 
-
+INSERT INTO pays(nom, code) VALUES ('Canardland','CNL');
