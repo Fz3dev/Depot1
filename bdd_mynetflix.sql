@@ -1,3 +1,4 @@
+# Nouveau commentaire
 DROP DATABASE IF EXISTS mynetflix;
 CREATE DATABASE mynetflix;
 use mynetflix;
